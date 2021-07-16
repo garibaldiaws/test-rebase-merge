@@ -18,3 +18,6 @@ Second line
 
 # Teste rebase no github
 Esse teste
+
+# Lets try rebase finishing PR
+Lets try
