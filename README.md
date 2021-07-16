@@ -15,3 +15,6 @@ Another line from garibaldiaws
 # rebase and then merge
 Look at this
 Second line
+
+# Teste rebase no github
+Esse teste
