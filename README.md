@@ -11,3 +11,7 @@ New line from this branch
 
 # Line from garibaldiaws
 Another line from garibaldiaws
+
+# rebase and then merge
+Look at this
+Second line
